@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Deepak Mehta</h1>
 <h3 align="center">A passionate Data Scientice/Machine Learning Engineer</h3>
+<img align="right" alt ="Coding" width = "400" src="https://i.pinimg.com/originals/77/29/f4/7729f4ebf5dd3d6754dee0ed5837ef77.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dpk9797&label=Profile%20views&color=0e75b6&style=flat" alt="dpk9797" /> </p>
 
 - 💬 Ask me about **Data Science Machine Learning and Deep Learning**
 
-- 📫 How to reach me **deepakhmehta---1@gmail.com**
+- 📫 How to reach me **deepakhmehta0001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
